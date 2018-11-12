@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <item name="team_badge" type="id" />
+    <item name="team_name" type="id" />
+    <item name="progress_bar" type="id" />
+    <item name="bottom_navigation_view" type="id" />
+    <item name="spinner" type="id" />
+    <item name="recycler_view" type="id" />
+    <item name="home_badge" type="id" />
+    <item name="away_badge" type="id" />
+    <item name="last_match" type="id" />
+    <item name="next_match" type="id" />
+</resources>
